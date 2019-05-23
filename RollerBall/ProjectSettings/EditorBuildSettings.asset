@@ -8,7 +8,34 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/ML-Agents/Examples/3DBall/Scenes/3DBall.unity
     guid: 6f62a2ccb3830437ea4e85a617e856b3
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/Tennis/Scenes/TennisIL.unity
+    guid: fcb7318b9c85c40a3b186ed8a3857f0a
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/PushBlock/Scenes/PushBlockIL.unity
+    guid: 1bd7313e03fda420b90b4fcf2fc380f0
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/WallJump/Scenes/WallJump.unity
+    guid: 56024e8d040d344709949bc88128944d
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/Crawler/Scenes/CrawlerDynamicTarget.unity
+    guid: cb09636e2bfd74254939fe22b12c28e1
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/Bouncer/Scenes/Bouncer.unity
+    guid: 2c29359d4c9fe49219b21cd83e246596
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/Soccer/Scenes/SoccerTwos.unity
+    guid: f8055e5dfa04643559678426a82225c1
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/Walker/Scenes/Walker.unity
+    guid: 36160dc1faf384eaa9a65a73f6942ce3
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/Pyramids/Scenes/Pyramids.unity
+    guid: 35afbc150a44b4aa69ca04685486b5c4
+  - enabled: 1
+    path: Assets/ML-Agents/Examples/Tennis/Scenes/Tennis.unity
+    guid: 25c0c9e81e55c4e129e1a5c0ac254100
   m_configObjects: {}
